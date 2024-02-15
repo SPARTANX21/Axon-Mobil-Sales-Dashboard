@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Power BI dashboard designed to analyze the sales performance of Classicmodels, a fictional company used for educational purposes. The dashboard provides insights into various aspects of the company's sales data, including overall sales performance, product performance, customer behavior, and regional sales analysis.
+This repository contains a Power BI dashboard designed to analyze the sales performance of Classicmodels, a fictional company. The dashboard provides insights into various aspects of the company's sales data, including overall sales performance, product performance, customer behavior, and regional sales analysis.
 
 ## Dashboard Features
 
